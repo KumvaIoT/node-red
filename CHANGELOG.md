@@ -6,7 +6,7 @@ list.
 
 Breaking Changes
 
- - Node-RED now requires Node 22.9 or later.
+ - Node-RED now requires Node 20.19 or later.
  - We recommend Node 24.
 
 Editor
@@ -94,7 +94,7 @@ Editor
 Runtime
 
  - Fix build scripts for windows (#5687) @knolleary
- - Set minimum node.js version to 22.9 (#5678) @knolleary
+ - Set minimum node.js version to 20.19 (#5678) @knolleary
  - Update to latest npm (#5677) @knolleary
  - Update some dev dependencies to clear audit noise (#5673) @knolleary
  - Introduce eslint (#5671) @knolleary
