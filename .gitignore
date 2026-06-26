@@ -31,3 +31,4 @@ sync.ffs_db
 test/resources/50-file-test-file.txt
 test/unit/@node-red/runtime/lib/nodes/.testUserHome
 sample
+.env
