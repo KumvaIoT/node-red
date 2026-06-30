@@ -2,10 +2,16 @@
   "sessionId": "session_campaign_1782815905825_ugs8xxuw9_1782815906832_o5k4c16tu",
   "campaignId": "campaign_1782815905825_ugs8xxuw9",
   "phoneNumber": "+250780475912",
-  "responses": [],
+  "responses": [
+    {
+      "type": "session-summary",
+      "content": "{\"sessionId\":\"session_campaign_1782815905825_ugs8xxuw9_1782815906832_o5k4c16tu\",\"phoneNumber\":\"+250780475912\",\"campaignId\":\"campaign_1782815905825_ugs8xxuw9\",\"duration\":36,\"responseCount\":0,\"status\":\"active\",\"startedAt\":\"2026-06-30T10:38:26.833Z\",\"completedAt\":\"2026-06-30T10:39:02.873Z\",\"responses\":[]}",
+      "timestamp": "2026-06-30T10:39:02.878Z"
+    }
+  ],
   "metadata": {
     "startedAt": "2026-06-30T10:38:26.840Z",
-    "lastUpdated": "2026-06-30T10:38:26.840Z",
+    "lastUpdated": "2026-06-30T10:39:02.878Z",
     "status": "active"
   },
   "campaignType": "sms",
