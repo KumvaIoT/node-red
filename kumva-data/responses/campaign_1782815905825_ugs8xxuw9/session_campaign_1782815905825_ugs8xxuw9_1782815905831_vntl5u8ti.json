@@ -1,0 +1,29 @@
+{
+  "sessionId": "session_campaign_1782815905825_ugs8xxuw9_1782815905831_vntl5u8ti",
+  "campaignId": "campaign_1782815905825_ugs8xxuw9",
+  "phoneNumber": "+250780475911",
+  "responses": [
+    {
+      "type": "session-summary",
+      "content": "{\"sessionId\":\"session_campaign_1782815905825_ugs8xxuw9_1782815905831_vntl5u8ti\",\"phoneNumber\":\"+250780475911\",\"campaignId\":\"campaign_1782815905825_ugs8xxuw9\",\"duration\":36,\"responseCount\":0,\"status\":\"active\",\"startedAt\":\"2026-06-30T10:38:25.833Z\",\"completedAt\":\"2026-06-30T10:39:01.946Z\",\"responses\":[]}",
+      "timestamp": "2026-06-30T10:39:01.960Z"
+    }
+  ],
+  "metadata": {
+    "startedAt": "2026-06-30T10:38:25.852Z",
+    "lastUpdated": "2026-06-30T10:39:01.960Z",
+    "status": "active"
+  },
+  "campaignType": "sms",
+  "shortCode": "21234",
+  "status": "active",
+  "createdAt": "2026-06-30T10:38:25.833Z",
+  "contactData": {
+    "phone": "+250780475911",
+    "name": "robben",
+    "age": "12"
+  },
+  "initialMessage": "Hello robben, how are you?\nIs this your age? 12\nPlease respond with Yes or No",
+  "webhookUrl": "http://127.0.0.1:1880/kumva/webhook",
+  "debugMode": false
+}

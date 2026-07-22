@@ -11,7 +11,8 @@
     "private": "true",
     "scripts": {
         "start": "node packages/node_modules/node-red/red.js",
-        "build": "node scripts/build",
+        "prebuild": "cd packages/node_modules/kumva-insights && npm install",
+        "build": " node scripts/build",
         "build-dev": "node scripts/build --dev",
         "dev": "node scripts/dev",
         "lint": "eslint packages/node_modules/@node-red/editor-client/src/js",
@@ -130,8 +131,5 @@
         "sinon": "11.1.2",
         "stoppable": "^1.1.0",
         "supertest": "6.3.3"
-    },
-    "engines": {
-        "node": ">=22.9"
     }
 }
